@@ -1,2 +1,2 @@
-Daphne djangochannel.asgi:application
+web: daphne djangochannel.asgi:application
  
