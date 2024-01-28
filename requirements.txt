@@ -11,5 +11,5 @@ hyperlink==21.0.0
 idna==3.6
 
 redis==5.0.1
-
+gunicorn
 psycopg2-binary
