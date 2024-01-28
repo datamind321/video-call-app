@@ -1,2 +1,2 @@
-web: gunicorn djangochannel.asgi --log-file -
+Daphne djangochannel.asgi:application
  
