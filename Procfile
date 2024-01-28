@@ -1,2 +1,2 @@
-web: gunicorn project.asgi --log-file -
+web: gunicorn djangochannel.asgi --log-file -
  
